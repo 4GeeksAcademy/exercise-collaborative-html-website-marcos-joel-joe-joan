@@ -1,5 +1,9 @@
 body {
-    background: white;
+    background: #BDBDBD;
+}
+
+.bg-image {
+    height: 400px;
 }
 
 #start {
